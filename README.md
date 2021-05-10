@@ -27,6 +27,8 @@ This aids in the startup time of the vast configuration needed for using the pac
 
 Here's an example using the `TCard` component.
 
+> Filepath: `vue-tailwind/settings/card.js`
+
 ```
 import TCard from 'vue-tailwind/dist/t-card'
 
